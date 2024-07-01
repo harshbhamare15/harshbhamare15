@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS & Javascript
 - 💞️ I’m looking to collaborate on Web Devlopment project
-- 📫 How to reach me @harshbhamare42@gmail.com
+- 📫 How to reach me harshbhamare42@gmail.com
 - 😄 Pronouns: Him
 - ⚡ Fun fact: Gym Lover💪
 
