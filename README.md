@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harsh Bhamare
 - 👀 I’m passionate about Web Development
-- 🌱 Currently focusing on Back-End Development using Node.js and Express.js, while completing my Front-End Development skills  in React.js and Next.js.
+- 🌱 Currently focusing on Back-End Development using Node.js and Express.js, while completing my Front-End Development skills in React.js and Next.js.
 - 💡 I love building modern, responsive, and user-friendly web applications
 - 💞️ Open to collaborating on innovative Web Development projects
 - 🚀 Continuously learning and improving my skills in modern web technologies
