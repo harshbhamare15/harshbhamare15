@@ -7,7 +7,7 @@
 - ⚡ Skilled in **Frontend Development** with **React.js & Next.js**
 - 🌱 Currently leveling up to **Full Stack Development**, focusing on **Next.js** (API routes, server actions & backend integration)
 - 💼 All of my projects are available at [github.com/harshbhamare15](https://github.com/harshbhamare15)
-- 💬 Ask me about **Frontend Development, JavaScript, React**, etc
+- 💬 Ask me about **Frontend Development, TypeScript, Next.js**, etc
 - 📫 How to reach me **harshbhamare42@gmail.com**
 
 ### Connect with me:
