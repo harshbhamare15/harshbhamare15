@@ -20,5 +20,5 @@
 
 ### Languages and Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,nodejs,express,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,mysql,git,github,vscode,canva,figma,js" />
 </p>
