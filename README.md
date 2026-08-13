@@ -8,7 +8,7 @@
 - 🌱 Currently leveling up to **Full Stack Development**, focusing on **Next.js** (API routes, server actions & backend integration)
 - 💼 All of my projects are available at [github.com/harshbhamare15](https://github.com/harshbhamare15)
 - 💬 Ask me about **Frontend Development, TypeScript, Next.js**, etc
-- 📫 How to reach me **harshbhamare42@gmail.com**
+- 📫 How to reach me **https://linktr.ee/harsh_004**
 
 ### Connect with me:
 <p align="left">
