@@ -1,4 +1,4 @@
-[![MasterHead](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Harsh;A+Passionate+Frontend+Developer;Welcome+to+my+Profile)](https://git.io/typing-svg)
+[![MasterHead](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Harsh;A+Passionate+Frontend+Developer;Welcome+to+my+Profile)](https://git.io/typing-svg)
 
 # Hi 👋, I'm Harsh Bhamare
 
@@ -8,7 +8,7 @@
 - 🌱 Currently leveling up to **Full Stack Development**, focusing on **Next.js** (API routes, server actions & backend integration)
 - 💼 All of my projects are available at [github.com/harshbhamare15](https://github.com/harshbhamare15)
 - 💬 Ask me about **Frontend Development, TypeScript, Next.js**, etc
-- 📫 How to reach me **https://linktr.ee/harsh_004**
+- 📫 How to reach me [linktr.ee/harsh_004](https://linktr.ee/harsh_004)
 
 ### Connect with me:
 <p align="left">
